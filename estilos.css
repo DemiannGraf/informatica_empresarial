@@ -43,6 +43,18 @@ header .logo{
     line-height: 80px;
 }
 
+header img {
+    float: left;
+    margin-right: 15px;
+}
+
+img {
+    width: auto;
+    height: auto;
+    max-width: 80px;
+    max-height: 80px;
+}
+
 header nav {
     float: right;
 }
